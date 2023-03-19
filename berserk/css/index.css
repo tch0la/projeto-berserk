@@ -101,3 +101,187 @@ h3 {
 
 
 /* Barra de Rolagem */
+
+.btm2{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm2:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
+
+.btm3{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm3:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
+
+.btm4{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm4:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
+
+.btm5{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm5:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
+
+.btm6{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm6:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
+
+.btm7{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm7:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
+
+.btm8{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm8:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
+
+.btm9{
+    font-size: 20px;
+color: rgb(158, 8, 8);
+padding: 10px 5px;
+width: 70px;
+background-color: #000000;
+border: 3px solid rgb(158, 8, 8) ;
+border-radius: 5px;
+text-align: center;
+user-select: none;
+cursor: pointer;
+transition: 0.5s;
+font-family: berserk;
+}
+
+.btm9:hover{
+    background: #2e2e2e;
+    transition: 0.5s;
+
+
+
+}
